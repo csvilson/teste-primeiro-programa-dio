@@ -4,7 +4,7 @@ public class Camisa {
 	
 	public static void main(String[] args){
 		
-		String tamanho = "G";
+		String tamanho = "P";
 		String cor = "vermelha";
 		int preco = 80;
 		
